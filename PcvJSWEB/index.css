@@ -1,0 +1,25 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+
+}
+
+.black {
+    background: black;
+}
+.white {
+    background: white;
+}
+td{
+    height: 50px;
+    width: 50px;
+}
+.chess {
+    border-spacing: 0;
+    border-collapse: separate;
+    border: solid hotpink;
+    width: 400px;
+    height: 400px;
+}
